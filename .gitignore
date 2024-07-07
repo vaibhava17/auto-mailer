@@ -1,0 +1,10 @@
+# Enviornment Variables
+.env
+
+# Data Files
+*.pdf
+*.csv
+*.json
+
+# PyCharm Settings
+.idea
